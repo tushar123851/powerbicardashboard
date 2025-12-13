@@ -77,7 +77,7 @@ Tracks sales variation across months to identify peak and low sales periods.
 Highlights high-demand car models such as **Altroz, Venue, Nexon, Sonet,
 Baleno**.
 
----
+
 
 ## 🛠 Tools & Technologies Used
 - Power BI
